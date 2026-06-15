@@ -1,6 +1,4 @@
-Hi.
-Im Nathan.
-Im not very good at programming.
+God bless Claude Code
 
 <!---
 Sonnat05/Sonnat05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
